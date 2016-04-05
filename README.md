@@ -1,2 +1,2 @@
 # demo-ansible-docker-image
-docker build --tag="gabrielferreira/demo-ansible-dockerimage" .
+docker build --tag="gabrielferreira/demo-ansible-docker-image" .
