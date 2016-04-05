@@ -13,6 +13,6 @@ execute the command bellow to run the Docker
 $ docker run -p 9000:80 --name some-ad-image -it gabrielferreira/demo-ansible-docker-image
 ```
 
-Now open your browser and enter the Docker URL **http://<DOCKER_URL>:9000**
+Now open your browser and enter the Docker URL **http://DOCKER_URL:9000**
 
 **It's Done**
